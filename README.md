@@ -9,12 +9,12 @@ This app simulates a restaurant checkout where you can:
 
 ---
 
-## 🎬 Demo
+
 
 ## 🎬 Demo
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="App Demo" width="350" />
+  <img src="./assets/demo.gif" alt="App Demo" width="300" />
 </p>
 
 
